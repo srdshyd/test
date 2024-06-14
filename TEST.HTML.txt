@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Verification</title>
+</head>
+<body>
+    <h1>Document Verification</h1>
+    <p>Name: SPURTHI RURAL DEVELOPMENT SOCIETY</p>
+    <p>TC Id: TC220110</p>
+    <p>TC Address: 4-4-71, DHARMAVIDYALAYAM, GANDHICOLONY, VIKARABAD, TELANGANA, 501101</p>
+    <p>TP Name: SPURTHI RURAL DEVELOPMENT SOCIETY</p>
+    <p>TP Id: TP012431</p>
+    <p>Jobrole Name: SELF EMPLOYED TAILOR TAILOR</p>
+    <p>QP Code: AMH/Q1947</p>
+    <p>Certificate Number: AMH/Q1947/250823/TC220110</p>
+    <p>Valid Upto: 24TH NOVEMBER 2024</p>
+    <p>Candidate ID: TC220110</p>
+    <p>Document: certificate</p>
+    <p>Issuance Date: 29/05/2024</p>
+</body>
+</html>
